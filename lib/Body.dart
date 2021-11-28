@@ -111,7 +111,7 @@ class _tittleState extends State<tittle> {
           Text(widget.product.description,style: Theme.of(context).textTheme.headline6?.copyWith(color: Colors.black),),
           RaisedButton(child: Text('Hostel - Stand Up Comedy ft. Anubhav Singh Bassi'),
             onPressed: (){
-              Navigator.push(context, MaterialPageRoute(builder: (context)=>  VideoScreen('Hostel - Stand Up Comedy ft. Anubhav Singh Bassi',"https://www.youtube.com/watch?v=Tqsz6fjvhZM")));
+              Navigator.push(context, MaterialPageRoute(builder: (context)=>  VideoScreen('Hostel - Stand Up Comedy ft. Anubhav Singh Bassi',' http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4')));
             } ,
           ),
           // ListView(
