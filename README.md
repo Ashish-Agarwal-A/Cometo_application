@@ -76,3 +76,12 @@ a Entertainment platform. This platform is the place with the collection of larg
 number of shows. But it will be very difficult for people search for a particular 
 show among millions and hence it comes up as tedious job. Even the experienced 
 its location so here is when an android application” Cometo” comes into picture.
+
+![image](https://user-images.githubusercontent.com/61413121/150535281-8c864240-db4f-48fe-9e26-843b24575941.png)
+![image](https://user-images.githubusercontent.com/61413121/150535330-14a8832d-a7ee-439c-af67-6c0f9aaf8e1d.png)
+![image](https://user-images.githubusercontent.com/61413121/150535354-51a5e931-790f-4459-828c-3a194f68884f.png)
+![image](https://user-images.githubusercontent.com/61413121/150535396-41ef142d-ac70-40bd-a5a7-8727c666e50e.png)
+![image](https://user-images.githubusercontent.com/61413121/150535401-8ab4d622-b20b-44ec-a098-872dad1e7549.png)
+![image](https://user-images.githubusercontent.com/61413121/150535423-1abf9dfc-0cb2-4462-8337-7693a9fcf62f.png)
+ 
+
